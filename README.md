@@ -37,9 +37,9 @@ The bot provides advanced analytics such as:
 ## Screenshots of Catan Bot in use
 
 ### Dice Roll Graph
-![Dice Roll Graph](./screenshots/catan-dice-statistics.png)
+![Dice Roll Graph](./screenshots/dice-roll-analytics.png)
 
-### Dice Analytics
+### Dice Statistics
 ![Dice Analytics](./screenshots/catan-dice-statistics.png)
 
 ### Player Statistics
