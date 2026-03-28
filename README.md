@@ -33,3 +33,22 @@ The bot provides advanced analytics such as:
 - Average placement
 - Dice roll distribution vs expected probability
 - Luck differential analysis
+
+## Screenshots of Catan Bot in use
+
+### Dice Roll Graph
+![Dice Roll Graph](./screenshots/dice-roll-analytics.png)
+
+### Dice Analytics
+![Dice Analytics](./screenshots/catan-dice-statistics.png)
+
+### Player Statistics
+![Player Stats](./screenshots/catan-statistics-player.png)
+
+### Dice Roll Command
+![Dice Roll](./screenshots/dice-roll.png)
+
+### Game Results
+![Game Results](./screenshots/catan-results.png)
+
+
